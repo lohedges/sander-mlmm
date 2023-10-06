@@ -1,5 +1,8 @@
 # sander-mlmm
 
+This repository is now archived. Development has move to the
+[CheMLE](https://github.com/chemle) organisation [here](https://github.com/chemle/emle-engine).
+
 A simple interface to allow electrostatic embedding of machine learning
 potentials in [sander](https://ambermd.org/AmberTools.php). Based on
 [code](https://github.com/emedio/embedding) by Kirill Zinovjev. The
