@@ -513,7 +513,7 @@ class MLMMCalculator:
 
                 # Make sure all of the model files exist.
                 for model in deepmd_model:
-                    if not os.path.exists(model):
+                    if not os.path.exists(deepmd_model):
                         raise IOError(f"Unable to locate DeePMD model file: '{model}'")
 
                 # Store the list of model files, removing any duplicates.
